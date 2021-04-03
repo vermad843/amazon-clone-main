@@ -1,3 +1,5 @@
+[x] deployed - https://fervent-visvesvaraya-2735b2.netlify.app/
+
 [x] Navbar(Header)
 
 [x] banner
